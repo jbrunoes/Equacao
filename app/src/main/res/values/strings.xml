@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Equacao</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="valor_a">Valor de A:</string>
+    <string name="valor_b">Valor de B:</string>
+    <string name="valor_c">Valor de C:</string>
+    <string name="botao_enviar">Enviar</string>
+    <string name="title_activity_resultado">Resultado</string>
+</resources>
